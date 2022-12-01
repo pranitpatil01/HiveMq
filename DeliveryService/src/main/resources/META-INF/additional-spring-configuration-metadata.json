@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "mqtt.config.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.config.clientId'"
+  },
+  {
+    "name": "mqtt.config.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.config.host'"
+  },
+  {
+    "name": "mqtt.config.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.config.port'"
+  },
+  {
+    "name": "mqtt.config.username",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.config.username'"
+  },
+  {
+    "name": "mqtt.config.password",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.config.password'"
+  }
+]}
